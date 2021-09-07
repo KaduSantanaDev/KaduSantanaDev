@@ -1,6 +1,6 @@
 # Welcome to my profile!
 
-Hi! my name is Kadu Santana, i'm a student and i'm learning **c#** and **JavaScript**
+Hi! my name is Kadu Santana, i'm a student and i'm studyn web development
 
 
 # GOALS
