@@ -1,21 +1,18 @@
 # Welcome to my profile!
 
-Hi! my name is Kadu Santana, i'm a student and i'm studying web development
-
+const myself = {<br>
+  firstName: 'Kadu',<br>
+  lastName: 'Santana',<br>
+  age: 14,<br>
+  birthday: new Date(2007, 4, 17),<br>
+  hobbies: ['Coding', 'games', 'guitar']<br>
+}
 
 # GOALS
-
-  
-In the future I hope to attend college in software engineering or mechatronics engineering. I dream of working independently, being "stuck" working in a company is not my kind of thing
-
-## Hobbies
-
-💻Coding
-🎮Games
-🎵Music
-🎸Guitar
+ 
+In the future I hope to attend college in software engineering. I dream of working independently, being "stuck" working in a company is not my kind of thing
 
 ## How to contact me
 
 - E-mail: devsantanabr@gmail.com
-- Discord: Santana#2116
+- Discord: Kadu#2205
