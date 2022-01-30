@@ -2,11 +2,7 @@
 
 ```
 class Me {
-  constructor(firstName, lastName, age)
-    this.firstName = firstName,;
-    this.lastName = lastName;
-    this.age = age
-  } 
+  constructor(public firstName: String, public lastName: String, public age: Number){} 
 }
 
 const pessoa = new Me('Kadu', 'Santana', 14)
