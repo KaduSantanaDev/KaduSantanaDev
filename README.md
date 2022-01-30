@@ -1,11 +1,11 @@
 # 😀Welcome to my profile!
 
 ```
-class Me {
+class Person {
   constructor(public firstName: String, public lastName: String, public age: Number){} 
 }
 
-const pessoa = new Me('Kadu', 'Santana', 14)
+const me = new Person('Kadu', 'Santana', 14)
 ```
 <div>
   <a href="https://github.com/KaduSantanaDev/SantanaDEVbr">
