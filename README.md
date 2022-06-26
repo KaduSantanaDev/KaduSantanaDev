@@ -9,8 +9,8 @@ const me = new Person('Kadu', 'Santana', 15)
 ```
 <div>
   <a href="https://github.com/KaduSantanaDev/SantanaDEVbr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaduSantanaDev&show_icons=true&theme=radical"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaduSantanaDev&langs_count=8&theme=radical"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api?username=KaduSantanaDev&show_icons=true&theme=radical"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaduSantanaDev&langs_count=8&theme=radical"/>
   </a>
 
 </div>
