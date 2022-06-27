@@ -2,7 +2,7 @@
 
 ```
 class Person {
-  constructor(public firstName: String, public lastName: String, public age: Number){} 
+  constructor(public firstName: string, public lastName: string, public age: number){} 
 }
 
 const me = new Person('Kadu', 'Santana', 15)
