@@ -1,4 +1,4 @@
-# 😀Welcome to my profile!
+## 😀Welcome to my profile!
 
 ```
 class Person {
@@ -21,5 +21,5 @@ In the future I hope to attend college in software engineering. I dream of worki
 
 ## 📞How to contact me
 
-- E-mail: devsantanabr@gmail.com
+- E-mail: devsantanabr@gmail.com 
 - Discord: Kadu#2205
