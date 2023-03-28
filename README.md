@@ -1,11 +1,13 @@
 # 😀Welcome to my profile!
 
 ```
-class Person {
-  constructor(public firstName: string, public lastName: string, public age: number){} 
-}
+class Person:
+  def __init__(self, nome, idade):
+    self.nome = nome
+    self.idade = idade
 
-const me = new Person('Kadu', 'Santana', 15)
+
+const me = Person('Kadu', 15)
 ```
 <div>
   <a href="https://github.com/KaduSantanaDev/SantanaDEVbr">
@@ -22,4 +24,3 @@ In the future I hope to attend college in software engineering. I dream of worki
 ## 📞How to contact me
 
 - E-mail: devsantanabr@gmail.com 
-- Discord: Kadu#2205
