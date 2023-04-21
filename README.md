@@ -7,7 +7,7 @@ class Person:
     self.idade = idade
 
 
-const me = Person('Kadu', 15)
+const me = Person('Kadu', 16)
 ```
 <div>
   <a href="https://github.com/KaduSantanaDev/SantanaDEVbr">
