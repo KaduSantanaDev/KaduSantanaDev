@@ -1,13 +1,17 @@
 # 😀Welcome to my profile!
 
 ```
-class Person:
-  def __init__(self, nome, idade):
-    self.nome = nome
-    self.idade = idade
+class Person {
+    constructor(private name: string, private age: number) {}
 
+    greetings(): string {
+        return `Hi! My name is ${this.name}, and I'm ${this.age}`
+    }
+}
 
-const me = Person('Kadu', 16)
+const person = new Person('Kadu Santana', 16)
+
+console.log(person.greetings())
 ```
 <div>
   <a href="https://github.com/KaduSantanaDev/SantanaDEVbr">
