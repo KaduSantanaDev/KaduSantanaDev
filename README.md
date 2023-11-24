@@ -20,8 +20,7 @@ console.log(person.greetings())
 
 </div>
 
-#I'm a freelancer dev!!
-
-## 📞How to contact me
+## I'm a freelancer dev!!
+### 📞How to contact me
 
 - E-mail: devsantanabr@gmail.com 
