@@ -20,9 +20,7 @@ console.log(person.greetings())
 
 </div>
 
-# 😉GOALS
- 
-In the future I hope to attend college in software engineering. I dream of working independently, being "stuck" working in a company is not my kind of thing
+#I'm a freelancer dev!!
 
 ## 📞How to contact me
 
