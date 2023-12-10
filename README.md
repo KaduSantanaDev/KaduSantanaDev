@@ -16,7 +16,8 @@ console.log(person.greetings())
 <div>
   <a href="https://github.com/KaduSantanaDev/SantanaDEVbr">
   <img height="250em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaduSantanaDev&langs_count=8&theme=radical"/>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+  https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs
+  <img height="250em" width="100%" src=" https://github-readme-stats.vercel.app/api?username=KaduSantanaDev&hide=contribs,prs"/>
   </a>
 
 </div>
