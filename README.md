@@ -9,7 +9,7 @@ class Person {
     }
 }
 
-const person = new Person('Kadu Santana', 16)
+const person = new Person('Kadu Santana', 18)
 
 console.log(person.greetings())
 ```
