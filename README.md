@@ -1,17 +1,28 @@
 # 😀Welcome to my profile!
 
 ```
-class Person {
-    constructor(private name: string, private age: number) {}
+package main
 
-    greetings(): string {
-        return `Hi! My name is ${this.name}, and I'm ${this.age}`
-    }
+import "fmt"
+
+type Person struct {
+    name string
+    age  int
 }
 
-const person = new Person('Kadu Santana', 18)
+func NewPerson(name string, age int) *Person {
+    return &Person{name: name, age: age}
+}
 
-console.log(person.greetings())
+func (p *Person) Greetings() string {
+    return fmt.Sprintf("Hi! My name is %s, and I'm %d", p.name, p.age)
+}
+
+func main() {
+    person := NewPerson("Kadu Santana", 18)
+    fmt.Println(person.Greetings())
+}
+
 ```
 <div>
   <a href="https://github.com/KaduSantanaDev/SantanaDEVbr">
