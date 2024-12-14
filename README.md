@@ -19,7 +19,7 @@ func (p *Person) Greetings() string {
 }
 
 func main() {
-    person := NewPerson("Kadu Santana", 18)
+    person := NewPerson("Kadu Santana", 17)
     fmt.Println(person.Greetings())
 }
 
