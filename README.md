@@ -19,7 +19,7 @@ func (p *Person) Greetings() string {
 }
 
 func main() {
-    person := NewPerson("Kadu Santana", 17)
+    person := NewPerson("Kadu Santana", 18)
     fmt.Println(person.Greetings())
 }
 
@@ -32,8 +32,6 @@ func main() {
 
 </div>
 
-## I'm a freelancer dev!!
 ### 📞How to contact me
 
-- E-mail: devsantanabr@gmail.com
-- https://www.fiverr.com/santana_dev
+- E-mail: kadu.p.santana@outlook.com.br
