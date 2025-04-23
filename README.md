@@ -103,10 +103,8 @@ Me chamo Kadu de Paula Santana, tenho 18 anos e sou natural de São Paulo. Concl
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <br/>
-<br/>
 
 ### 📊 Estatísticas
-
 <div>
   <a href="https://github.com/KaduSantanaDev/SantanaDEVbr">
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaduSantanaDev&langs_count=8&theme=radical"/>
