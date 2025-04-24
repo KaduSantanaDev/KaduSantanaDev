@@ -1,10 +1,12 @@
 # 👩🏻‍💻 Kadu Santana
 
-**`Desenvolvedor Backend`**
+**`Backend Developer`**
 
 Me chamo Kadu de Paula Santana, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no Colégio FECAP, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC Ipiranga. Sou apaixonado por tecnologia e estudo programação desde 2021. Estou sempre em busca de me atualizar com as tendências e ferramentas mais modernas do mercado. Gosto de analisar os desafios do ponto de vista do negócio, pois acredito que essa visão amplia minha capacidade de encontrar soluções eficientes e inovadoras.
 
-### 🤖 Linguagens e Tecnologias
+My name is Kadu de Paula Santana, I’m 18 years old and I’m from São Paulo, Brazil. I completed high school at Colégio FECAP, where I also took a technical course in Information Technology. Currently, I’m pursuing a degree in Systems Analysis and Development at FATEC Ipiranga. I’m passionate about technology and have been studying programming since 2021. I’m always looking to stay updated with the latest trends and tools in the market. I enjoy analyzing challenges from a business perspective, as I believe this mindset enhances my ability to find efficient and innovative solutions.
+
+### 🤖 Tecnologies
 
 <img 
     align="left" 
@@ -104,7 +106,7 @@ Me chamo Kadu de Paula Santana, tenho 18 anos e sou natural de São Paulo. Concl
 />
 <br/>
 
-### 📊 Estatísticas
+### 📊 Stats
 <div>
   <a href="https://github.com/KaduSantanaDev/SantanaDEVbr">
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaduSantanaDev&langs_count=8&theme=radical"/>
