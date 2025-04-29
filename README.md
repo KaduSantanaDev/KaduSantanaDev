@@ -110,7 +110,7 @@ My name is Kadu de Paula Santana, I’m 18 years old and I’m from São Paulo, 
 
 <div>
   <a href="https://github.com/KaduSantanaDev/SantanaDEVbr">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5&theme=gruvbox"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaduSantanaDev&size_weight=0.5&count_weight=0.5&theme=gruvbox"/>
   <img height="250em" src="https://github-readme-stats.vercel.app/api?username=KaduSantanaDev&show_icons=true&theme=gruvbox"/>
   </a>
 
