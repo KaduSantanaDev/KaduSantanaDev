@@ -119,5 +119,6 @@ My name is Kadu de Paula Santana, I’m 18 years old and I’m from São Paulo, 
 
 ### 📞How to contact me
 
-- E-mail: kadu.p.santana@outlook.com.br
 - Linkedin: linkedin.com/in/kadu-santana/
+- E-mail: kadu.p.santana@outlook.com.br
+
