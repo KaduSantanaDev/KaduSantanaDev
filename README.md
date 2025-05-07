@@ -96,14 +96,6 @@ My name is Kadu de Paula Santana, I’m 18 years old and I’m from São Paulo, 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" 
 />
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="60px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
 <br/>
 
 ### ㅤㅤ
